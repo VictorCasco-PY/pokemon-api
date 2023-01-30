@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  align-items: center;
+}
+
+ul {
+  list-style: none;
+}
+
+button{
+  background-color: #252525;
+  color: whitesmoke;
+  padding: 5px 15px;
+  cursor: pointer;
+}
